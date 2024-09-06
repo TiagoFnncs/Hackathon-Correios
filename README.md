@@ -33,3 +33,20 @@ A Tela de DashBoard concentra os principais sistemas dos Correios, como SIGEP WE
 
 - **DevMode:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&m=dev&t=q9he9DhTrP2j5OXo-1)
 - **Protótipo:** [Clique aqui](https://www.figma.com/proto/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
+
+
+
+Creative Commons Attribution 3.0 License (CC BY 3.0)
+
+This project is licensed under the terms of the Creative Commons Attribution 3.0 License. You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**License Summary**: [https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/)
+
+**Full License Text**: [https://creativecommons.org/licenses/by/3.0/legalcode](https://creativecommons.org/licenses/by/3.0/legalcode)
