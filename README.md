@@ -31,6 +31,7 @@ A Tela de DashBoard concentra os principais sistemas dos Correios, como SIGEP WE
 
 ## Links para o Protótipo
 
+- **Designer:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
 - **DevMode:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&m=dev&t=q9he9DhTrP2j5OXo-1)
 - **Protótipo:** [Clique aqui](https://www.figma.com/proto/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
 
