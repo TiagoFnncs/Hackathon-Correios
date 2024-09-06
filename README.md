@@ -1,4 +1,4 @@
-# DashBoard - O Futuro em Ação
+# DashBoard para Colaboradores (Hackathon Correios) - O Futuro em Ação
 
 ## Descrição do Projeto
 
@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante o hackathon dos Correios pela equipe **O F
 
 ### Centralização de Informações
 - **Integração de 9 Sistemas:** A interface unifica os 9 sistemas em um único painel, promovendo facilidade de acesso às informações e agilizando o processo de atendimento.
-- **Redução da Complexidade:** Com as informações centralizadas, os atendentes não precisam mais consultar os 36 manuais, simplificando o processo de atendimento e reduzindo o tempo gasto em busca de informações.
+- **Redução da Complexidade:** Com as informações centralizadas, os atendentes não precisam mais consultar os 36 manuais, simplificando o processo de atendimento e reduzindo o tempo gasto em busca de informações. A opção de manuais foi realizada através de um link para o Google Drive, pois não era o foco principal do protótipo e foi julgado como algo que não daria tempo para ser implementado.
 
 ### Redução do TMA
 - **Aumento da Agilidade:** A interface facilita o acesso rápido às informações necessárias, melhorando a eficiência do atendimento e reduzindo o TMA.
@@ -34,8 +34,6 @@ A Tela de DashBoard concentra os principais sistemas dos Correios, como SIGEP WE
 - **Designer:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
 - **DevMode:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&m=dev&t=q9he9DhTrP2j5OXo-1)
 - **Protótipo:** [Clique aqui](https://www.figma.com/proto/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
-
-
 
 ## Licença
 
