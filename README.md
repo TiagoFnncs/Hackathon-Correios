@@ -29,18 +29,6 @@ Na Tela de Login, há campos para inserir usuário (CPF/CNPJ ou idCorreios) e se
 ### Tela de DashBoard
 A Tela de DashBoard concentra os principais sistemas dos Correios, como SIGEP WEB, Coleta e Logística Reversa, e ICMS NET / Equalizar Proposta. Estes sistemas estão vinculados através de links que levam ao serviço oficial no site dos Correios. Além disso, o painel inclui funções como continuar atendimento, agendamentos, rastreamento, preço e prazos, e acesso a manuais. A funcionalidade de personalização permite que o usuário adapte o layout do DashBoard para melhor usabilidade, com a possibilidade de exibir o painel em formato de lista.
 
-## Commits Convencionais
-
-Este projeto segue as boas práticas de Conventional Commits, utilizando o seguinte padrão para as mensagens de commit:
-
-- **feat:** para novos recursos (ex: `feat: integração com SIGEP WEB`)
-- **fix:** para correções de bugs (ex: `fix: corrigido link para ICMS NET`)
-- **docs:** para mudanças na documentação (ex: `docs: atualizado README com explicação das telas principais`)
-- **style:** para mudanças que não afetam a lógica, apenas o estilo (espaços, formatação, etc.) (ex: `style: formatado código CSS`)
-- **refactor:** para mudanças que melhoram o código sem corrigir bugs ou adicionar funcionalidades (ex: `refactor: simplificado método de autenticação`)
-- **test:** para adicionar ou corrigir testes (ex: `test: adicionados testes unitários para login`)
-- **chore:** para tarefas gerais e manutenção (ex: `chore: atualizado dependências`)
-
 ## Links para o Protótipo
 
 - **DevMode:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&m=dev&t=q9he9DhTrP2j5OXo-1)
