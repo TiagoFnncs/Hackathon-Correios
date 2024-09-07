@@ -38,7 +38,8 @@ A Tela de DashBoard concentra os principais sistemas dos Correios, como SIGEP WE
 
 ### Telas do Autoatendimento
 O protótipo de autoatendimento permite aos clientes resolver questões diretamente no totem, com uma interface simplificada para acessar informações e serviços.
-*Obs: Para acessar no protótipo vá no canto superior esquerdo e clique no segundo icone que irá abrir um painel lateral com os dois protótipos para clicar e testá-los* 
+
+*Obs: Para acessar no link de protótipo vá no canto superior esquerdo e clique no segundo icone que irá abrir um painel lateral com os dois protótipos para clicar e testá-los* 
 
 ## Links para o Protótipo
 
