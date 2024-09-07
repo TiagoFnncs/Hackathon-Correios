@@ -36,8 +36,9 @@ Na Tela de Login, há campos para inserir usuário (CPF/CNPJ ou idCorreios) e se
 ### Tela de DashBoard
 A Tela de DashBoard concentra os principais sistemas dos Correios, como SIGEP WEB, Coleta e Logística Reversa, e ICMS NET / Equalizar Proposta. Estes sistemas estão vinculados através de links que levam ao serviço oficial no site dos Correios. O painel inclui funções como continuar atendimento, agendamentos, rastreamento, preço e prazos, e acesso a manuais. A funcionalidade de personalização permite que o usuário adapte o layout do DashBoard para melhor usabilidade, com a possibilidade de exibir o painel em formato de lista.
 
-### Tela de Autoatendimento
-O protótipo de autoatendimento permite aos clientes resolver questões diretamente no totem, com uma interface simplificada para acessar informações e serviços. 
+### Telas do Autoatendimento
+O protótipo de autoatendimento permite aos clientes resolver questões diretamente no totem, com uma interface simplificada para acessar informações e serviços.
+*Obs: Para acessar no protótipo vá no canto superior esquerdo e clique no segundo icone que irá abrir um painel lateral com os dois protótipos para clicar e testá-los* 
 
 ## Links para o Protótipo
 
