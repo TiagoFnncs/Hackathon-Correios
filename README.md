@@ -44,7 +44,7 @@ O protótipo de autoatendimento permite aos clientes resolver questões diretame
 - **Designer:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
 - **DevMode:** [Clique aqui](https://www.figma.com/design/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&m=dev&t=q9he9DhTrP2j5OXo-1)
 - **Protótipo:** [Clique aqui](https://www.figma.com/proto/rjpKcdPmvBwCnQFOKRcuFG/Hackathon-Correios?node-id=0-1&t=q9he9DhTrP2j5OXo-1)
-- **Vídeo Demo:** [Clique aqui](https://youtu.be/ubID2J4tsNQ)
+- **Vídeo Demo:** [Clique aqui](https://youtu.be/ZyjGqerG930)
 
 ## Licença
 
